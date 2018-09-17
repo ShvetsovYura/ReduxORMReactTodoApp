@@ -1,0 +1,37 @@
+[
+        {
+            "id":1,
+            "ready":false,
+            "task":"Обновить ПО"
+        },
+        {
+            "id":2,
+            "ready":false,
+            "task":"Установить ПО"
+        },
+        {
+            "id":3,
+            "ready":false,
+            "task":"Проверить ПО"
+        },
+        {
+            "id":4,
+            "ready":false,
+            "task":"Сходить за дровами"
+        },
+        {
+            "id":5,
+            "ready":false,
+            "task":"Наносить воды"
+        },
+        {
+            "id":6,
+            "ready":false,
+            "task":"Выпить"
+        },
+        {
+            "id":7,
+            "ready":false,
+            "task":"Закусить"
+        }
+    ]
